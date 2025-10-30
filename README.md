@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills
-- **Programming:** C, JavaScript  
+- **Programming:** C, JavaScript ,java,DataBase(SQL) 
 - **Web Development:** HTML, CSS, JavaScript  
 - **Other Interests:** App Development, Cloud Engineering, Cybersecurity  
 
